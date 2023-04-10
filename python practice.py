@@ -94,3 +94,35 @@
 #                 break
 # prime(15)
 
+#
+# temperature = int(input("Enter any temparature: "))
+#
+# if temperature > 30:
+#     print("It's a hot day")
+# elif temperature < 10:
+#     print("It's a cold day")
+# else:
+#     print("It's neither hot nor cold")
+
+
+# name = input("Enter any name: ")
+#
+# if len(name) < 3:
+#     print("Name must be at least of 3 characters")
+# elif len(name) >= 50:
+#     print("Name can maximum be of 50 characters")
+# else:
+#     print("Name looks good!")
+
+
+# num = int(input("Enter any number: "))
+# while num <= 10:
+#     print(num)
+#     num = num + 1
+# print("Done!")
+
+
+# numbers = [1, 1, 1, 1, 8]
+#
+# for x_count in numbers:
+#     print('x' * x_count)
